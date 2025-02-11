@@ -1,4 +1,4 @@
-# Hi there, I'm Praise! ![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+# Hi there, I'm Praise! 👋 
   
 
 Welcome to my GitHub! I'm a frontend developer passionate about building sleek, responsive, and accessible web applications. 🚀  
