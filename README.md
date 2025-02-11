@@ -1,7 +1,7 @@
 # Hi there, I'm Praise! 👋 
   
 
-Welcome to my GitHub! I'm a frontend developer passionate about building sleek, responsive, and accessible web applications. 🚀  
+Welcome to my GitHub! I'm a frontend developer, I build sleek, responsive, and accessible web applications. 🚀  
 
 ## 🛠️ Tech Stack  
 Here are some of the technologies I work with:  
